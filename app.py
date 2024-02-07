@@ -40,7 +40,7 @@ server = app.server
 ##====================================================================================================##
 
 #Variables
-archive = "assets\IBrx50.csv"
+archive = "https://raw.githubusercontent.com/FDovigo/machine_sharpy/main/assets/IBrx50.csv"
 imageLogo = "assets\logocinza.jpg"
 imageIndex = "assets\index.jpg"
 imageSharp = "assets\sharpy.png"
